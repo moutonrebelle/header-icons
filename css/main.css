@@ -17,12 +17,11 @@ img {
 }
 
 .left {
-  float:left;
-  margin-bottom: .7rem;
+  float: left;
 }
 
 .right {
-  float:right;
+  float: right;
 }
 
 h1 {
