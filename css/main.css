@@ -2,8 +2,46 @@
 
 html {
   line-height: 1.5;
+  font-family: Merriweather, serif;
 }
 
 *, *::before, *::after {
   box-sizing: inherit;
+}
+
+/* ------------- =heading -------------- */
+
+h1 {
+  background-color: #d05c2e;
+  font-size: 2rem;
+  font-weight: bold;
+  margin: 0;
+  color: #fff;
+  text-align: center;
+}
+
+body {
+  margin: 0;
+}
+
+/* ------------- =navigation-------------- */
+
+nav {
+  background-color: #d05c2e;
+  font-size: 1.125rem;
+  margin: 0;
+  text-align: center;
+}
+
+li {
+  list-style-type: none;
+}
+
+nav a {
+  color: #fff;
+  text-decoration: none;
+}
+
+nav ul {
+ margin: 0;
 }
